@@ -1,4 +1,4 @@
-package pl.tmsnoo.demo;
+package pl.tmsnoo.makao;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
